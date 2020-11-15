@@ -15,3 +15,5 @@ Printed with 1.75mm PETG using the CREALITY CR6-SE and the following basic setti
 
 PLA will also work but should be avoided since its glass transition temperature is around 50C so will likely warp over time when CPU temps exceed 50C
 
+ABS was not reliable due to warping and shrinkage at 100% infill. Lowering the infill density to <50% may produce better prints.
+
