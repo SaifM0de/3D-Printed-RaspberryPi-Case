@@ -4,10 +4,12 @@ STL, 3MF, and GCODE files for 3D printed RaspberryPi Case
 Printed with 1.75mm PETG using the CREALITY CR6-SE and the following basic settings:
 
 Layer Height: 0.3mm
+Print Speed: 45mm/s
+Z-Offset: 0.25mm
 Infill: 100%
 Printing Temp: 230C
 Bed Temp: 80C
-Print Speed: 45mm/s
+
 Cooling: 20% Fan Speed
 Support: >=30 degree overhangs
 Adhesion: Brim
