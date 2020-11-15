@@ -9,7 +9,6 @@ Z-Offset: 0.25mm
 Infill: 100%
 Printing Temp: 230C
 Bed Temp: 80C
-
 Cooling: 20% Fan Speed
 Support: >=30 degree overhangs
 Adhesion: Brim
